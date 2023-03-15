@@ -4,11 +4,11 @@
     "oncran": true
   },
   {
-    "package": "scorepeak",
+    "package": "magickGUI",
     "oncran": true
   },
   {
-    "package": "magickGUI",
+    "package": "scorepeak",
     "oncran": true
   }
 ]

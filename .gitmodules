@@ -8,13 +8,13 @@
 	url = https://github.com/shotaochi/imagerextra
 	shallow = true
 	registered = true
-[submodule "scorepeak"]
-	path = scorepeak
-	url = https://github.com/shotaochi/scorepeak
-	shallow = true
-	registered = true
 [submodule "magickGUI"]
 	path = magickGUI
 	url = https://github.com/shotaochi/magickgui
+	shallow = true
+	registered = true
+[submodule "scorepeak"]
+	path = scorepeak
+	url = https://github.com/shotaochi/scorepeak
 	shallow = true
 	registered = true

@@ -1,20 +1,13 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "imagerExtra"]
 	path = imagerExtra
 	url = https://github.com/shotaochi/imagerextra
-	shallow = true
-	registered = true
 [submodule "magickGUI"]
 	path = magickGUI
 	url = https://github.com/shotaochi/magickgui
-	shallow = true
-	registered = true
 [submodule "scorepeak"]
 	path = scorepeak
 	url = https://github.com/shotaochi/scorepeak
-	shallow = true
-	registered = true
